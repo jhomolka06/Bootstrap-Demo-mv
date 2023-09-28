@@ -1,0 +1,17 @@
+.main-title {
+    text-align: center;
+    font-size: 4rem;
+}
+
+.margins-body {
+    margin: 3rem;
+}
+
+.button-margin-main-form {
+    margin: 1rem;
+}
+
+.line-links-navbar-end {
+    margin-inline-start: auto;
+   
+}
